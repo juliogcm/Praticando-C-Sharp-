@@ -1,0 +1,15 @@
+F:\dev\EditorHtml\bin\Debug\net6.0\EditorHtml.exe
+F:\dev\EditorHtml\bin\Debug\net6.0\EditorHtml.deps.json
+F:\dev\EditorHtml\bin\Debug\net6.0\EditorHtml.runtimeconfig.json
+F:\dev\EditorHtml\bin\Debug\net6.0\EditorHtml.dll
+F:\dev\EditorHtml\bin\Debug\net6.0\EditorHtml.pdb
+F:\dev\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.AssemblyReference.cache
+F:\dev\EditorHtml\obj\Debug\net6.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfoInputs.cache
+F:\dev\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfo.cs
+F:\dev\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.CoreCompileInputs.cache
+F:\dev\EditorHtml\obj\Debug\net6.0\EditorHtml.dll
+F:\dev\EditorHtml\obj\Debug\net6.0\refint\EditorHtml.dll
+F:\dev\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb
+F:\dev\EditorHtml\obj\Debug\net6.0\EditorHtml.genruntimeconfig.cache
+F:\dev\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll
