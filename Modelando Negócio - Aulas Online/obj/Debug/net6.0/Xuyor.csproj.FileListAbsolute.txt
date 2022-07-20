@@ -1,0 +1,15 @@
+F:\dev\Xuyor\bin\Debug\net6.0\Xuyor.exe
+F:\dev\Xuyor\bin\Debug\net6.0\Xuyor.deps.json
+F:\dev\Xuyor\bin\Debug\net6.0\Xuyor.runtimeconfig.json
+F:\dev\Xuyor\bin\Debug\net6.0\Xuyor.dll
+F:\dev\Xuyor\bin\Debug\net6.0\Xuyor.pdb
+F:\dev\Xuyor\obj\Debug\net6.0\Xuyor.csproj.AssemblyReference.cache
+F:\dev\Xuyor\obj\Debug\net6.0\Xuyor.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\Xuyor\obj\Debug\net6.0\Xuyor.AssemblyInfoInputs.cache
+F:\dev\Xuyor\obj\Debug\net6.0\Xuyor.AssemblyInfo.cs
+F:\dev\Xuyor\obj\Debug\net6.0\Xuyor.csproj.CoreCompileInputs.cache
+F:\dev\Xuyor\obj\Debug\net6.0\Xuyor.dll
+F:\dev\Xuyor\obj\Debug\net6.0\refint\Xuyor.dll
+F:\dev\Xuyor\obj\Debug\net6.0\Xuyor.pdb
+F:\dev\Xuyor\obj\Debug\net6.0\Xuyor.genruntimeconfig.cache
+F:\dev\Xuyor\obj\Debug\net6.0\ref\Xuyor.dll
