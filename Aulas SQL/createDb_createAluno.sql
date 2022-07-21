@@ -1,0 +1,16 @@
+CREATE DATABASE [Udemy]
+GO
+
+USE [Udemy]
+
+CREATE TABLE [Aluno](
+    [Id] UNIQUEIDENTIFIER NOT NULL,
+    [Name] NVARCHAR(120) NOT NULL,
+    [Email] NVARCHAR(180) NOT NULL,
+    [Document] NVARCHAR(20) NOT NULL,
+    [Phone] NVARCHAR(20),
+    [Birthday] DATETIME NOT NULL,
+    [CreateDate] DATETIME NOT NULL DEFAULT(GETDATE()),  
+    CONSTRAINT [PK_Aluno] PRIMARY KEY ([Id])
+);
+GO
